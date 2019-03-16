@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-vim
+
+about:
+  title: Learning Vim
+  description: Learning how to use vim proficiently
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
